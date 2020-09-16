@@ -68,4 +68,4 @@ spring:
           contentType: application/json
 api:
   url:
-    gift: http://gift:8080
+    gift: http://game-gift:8080
